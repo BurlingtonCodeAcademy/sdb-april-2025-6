@@ -37,4 +37,7 @@ console.log("trim string method ", trimExampleVariable.trim()) // trim string me
 let sliceExampleVariable = "HELLO EVERYONE!";
 console.log("slice example", sliceExampleVariable.slice(
     0, 5 // start index, end index (not included in the slice) 
-)) 
+))
+
+// concatenate example
+console.log("i" + " " + "WUZ" + " " + "hur")
